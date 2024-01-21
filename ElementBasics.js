@@ -50,6 +50,7 @@
    
         console.log("Test is completed");
         console.log("Push1 from GitX");
+        console.log("SecondComit from  GitX to develop");
 
     });
 
