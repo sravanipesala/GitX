@@ -49,7 +49,7 @@
         //pre-requisite function launch browser
    
         console.log("Test is completed");
-        console.log("Push from GitX");
+        console.log("Push1 from GitX");
 
     });
 
